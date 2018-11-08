@@ -1,0 +1,6 @@
+component_depth: 3
+exclude:
+- /binaries/.*
+- /build/.*
+- /docs/.*
+- /libraries/.*
